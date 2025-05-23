@@ -1,5 +1,4 @@
 # Correlation and regression for data analysis
-### Name : K MADHAVA REDDY
 
 # Aim : 
 
