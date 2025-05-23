@@ -1,6 +1,6 @@
 # Correlation and regression for data analysis
 ### Name : K MADHAVA REDDY
-### Reg No: 212223240064
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -23,6 +23,9 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```python
+# Developed By : K MADHAVA REDDY
+# Reg No : 212223240064
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
